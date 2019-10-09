@@ -16,12 +16,12 @@ Cachorro
 03 MIN-ATK
 05 MAX-ATK
 
-Undeads em transformação
+Undeads em transformação // Humanos
 15-25 HP
-(Adaga: 02 MIN-ATK // 08 MAX-ATK)
-(Espada curta: 03 MIN-ATK // 09 MAX-ATK)
+(Adaga: 02 MIN-ATK // 06 MAX-ATK)
+(Espada curta: 03 MIN-ATK // 08 MAX-ATK)
 (Espada longa: 04 MIN-ATK // 10 MAX-ATK)
- 
+(Machado: 06 MIN-ATK // 12 MAX-ATK)
 
 
 Herdeiro da luz
