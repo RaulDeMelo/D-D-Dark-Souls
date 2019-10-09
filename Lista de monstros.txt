@@ -1,0 +1,4 @@
+Undead comum
+10 HP
+2 MIN-ATK
+6 MAX-ATK
