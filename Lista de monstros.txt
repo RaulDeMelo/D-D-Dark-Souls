@@ -33,3 +33,6 @@ Carrasco do abismo
 20 HP
 06 MIN-ATK
 10 MAX-ATK
+
+
+LISTA DE ITENS INICIAIS
