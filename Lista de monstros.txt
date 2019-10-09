@@ -1,4 +1,35 @@
-Undead comum
+Obs.: Caso usuário tire valor máximo, o ataque é inesquivável; sendo possível efetuar um ataque em sequência (em efeito de desamparo).
+
+
+Hollow comum
 10 HP
-2 MIN-ATK
-6 MAX-ATK
+02 MIN-ATK
+06 MAX-ATK
+
+Hollow resistente
+14 HP
+04 MIN-ATK
+08 MAX-ATK
+
+Cachorro 
+06 HP
+03 MIN-ATK
+05 MAX-ATK
+
+Undeads em transformação
+15-25 HP
+(Adaga: 02 MIN-ATK // 08 MAX-ATK)
+(Espada curta: 03 MIN-ATK // 09 MAX-ATK)
+(Espada longa: 04 MIN-ATK // 10 MAX-ATK)
+ 
+
+
+Herdeiro da luz
+18 HP
+04 MIN-ATK
+08 MAX-ATK
+
+Carrasco do abismo
+20 HP
+06 MIN-ATK
+10 MAX-ATK
